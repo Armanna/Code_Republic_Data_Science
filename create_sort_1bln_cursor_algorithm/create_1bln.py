@@ -31,3 +31,20 @@ f.close()
 file_size = os.path.getsize('/home/arman/Documents/Arman/Data Science - Code Republic/Computer Science/create_sort_4_billion/create')
 
 print("File Size is :", file_size/1000000000, "GB")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
