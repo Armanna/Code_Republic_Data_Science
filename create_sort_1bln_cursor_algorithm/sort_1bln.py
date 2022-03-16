@@ -12,11 +12,13 @@ for i in range(200):
     cursors[k] = 0
     k += 1
 
-sort_final = []
 
 while len(sort_final) < 1000000000:
     print('next')
     s = {}
+    
+    sort_final = []
+
 
     file = open('/home/arman/Documents/Arman/Data Science - Code Republic/Computer Science/create_sort_4_billion/create')
     csvreader = csv.reader(file)
