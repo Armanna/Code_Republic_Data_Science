@@ -37,7 +37,7 @@ def search(word):
 
 
 
-word = input('Write the word you wnat to search: -> ')
+word = input('Write the word you want to search: -> ')
 word = word.lower()
 
 result = search(word)
